@@ -17,7 +17,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 public class AudioRecorderActivity extends MyFunction {
-
+//hackto3
     @BindView(R.id.textView)
     TextView textView;
     @BindView(R.id.btnPlay)
